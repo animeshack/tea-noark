@@ -1,6 +1,8 @@
 {
   "name": "tea-noark",
   "version": "0.1.0",
+  "description": "Just for Tea, always for tea",
+  "repository": "https://github.com/animeshack/tea-noark.git",
   "private": false,
   "scripts": {
     "dev": "next dev",
